@@ -1,6 +1,12 @@
 # content executable
 /ch01/build/
 
+# .vscode 
+**/.vscode
+
+# xcode
+*.dSYM
+
 # Mac OS
 .DS_Store
 
